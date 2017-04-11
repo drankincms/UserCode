@@ -1,0 +1,17 @@
+<use name="FWCore/Framework"/>
+<use name="FWCore/PluginManager"/>
+<use name="FWCore/ParameterSet"/>
+<use name="HLTrigger/HLTcore"/>
+<use name="DataFormats/HLTReco"/>
+<use name="FWCore/ServiceRegistry"/>
+<use name="CommonTools/UtilAlgos"/>
+<use name="DataFormats/HepMCCandidate"/>
+<use name="DataFormats/Math"/>
+<use name="DataFormats/RecoCandidate"/>
+<use name="DataFormats/Common"/>
+<use name="DataFormats/GsfTrackReco"/>
+<use name="DataFormats/CaloRecHit"/>
+<use name="DataFormats/EgammaReco"/>
+
+
+<flags EDM_PLUGIN="1"/>
